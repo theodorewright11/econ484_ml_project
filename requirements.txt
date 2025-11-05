@@ -1,7 +1,7 @@
 # requirements for the project
 pandas
 numpy
-matplotlib
-seaborn
-openpyxl
-scikit-learn
+# matplotlib
+# seaborn
+# openpyxl
+# scikit-learn

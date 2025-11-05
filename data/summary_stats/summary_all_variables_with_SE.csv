@@ -1,0 +1,33 @@
+Variable,Code,Category,Salt Lake,SE
+Crash Severity,5,Fatal,0.002767,0.000101
+Crash Severity,1,No injury / PDO,0.690093,0.000893
+Crash Severity,2,Possible injury,0.186732,0.000753
+Crash Severity,3,Suspected Minor Injury,0.103716,0.000589
+Crash Severity,4,Suspected Serious Injury,0.016692,0.000248
+Light Condition,2,Dark - Lighted,0.172944,0.000731
+Light Condition,3,Dark - Not Lighted,0.065291,0.000477
+Light Condition,4,Dark - Unknown Lighting,0.009545,0.000188
+Light Condition,5,Dawn,0.012689,0.000216
+Light Condition,1,Daylight,0.720662,0.000867
+Light Condition,6,Dusk,0.018868,0.000263
+Weather Condition,9,Blowing Sand / Dirt,0.000108,2e-05
+Weather Condition,5,Blowing Snow,0.002378,9.4e-05
+Weather Condition,1,Clear,0.719307,0.000868
+Weather Condition,2,Cloudy,0.165895,0.000719
+Weather Condition,7,"Fog, Smog",0.002541,9.7e-05
+Weather Condition,3,Rain,0.052529,0.000431
+Weather Condition,8,Severe Crosswinds,0.000382,3.8e-05
+Weather Condition,6,"Sleet, Hail",0.000675,5e-05
+Weather Condition,4,Snowing,0.056184,0.000445
+Road Surface,10,Dirt,0.0004,3.9e-05
+Road Surface,1,Dry,0.834483,0.000718
+Road Surface,11,Gravel,0.0002,2.7e-05
+Road Surface,5,Ice / Frost,0.015975,0.000242
+Road Surface,7,Mud,5.6e-05,1.4e-05
+Road Surface,9,Oil,5.2e-05,1.4e-05
+Road Surface,97,Other,0.000326,3.5e-05
+Road Surface,8,Sand / Dirt / Gravel,0.000448,4.1e-05
+Road Surface,4,Slush,0.009444,0.000187
+Road Surface,3,Snow,0.038957,0.000374
+Road Surface,6,Water,0.000926,5.9e-05
+Road Surface,2,Wet,0.098735,0.000576

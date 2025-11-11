@@ -1,5 +1,6 @@
 venv/
 data/raw
+data/merged_weather_crash
 
 
 # Byte-compiled / optimized / DLL files
